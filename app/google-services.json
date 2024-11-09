@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "640557360719",
+    "firebase_url": "https://videochat-db959-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "videochat-db959",
+    "storage_bucket": "videochat-db959.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:640557360719:android:eea602aaecd4cd36c16c3a",
+        "android_client_info": {
+          "package_name": "com.example.videochat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBo2Pi0IuFL9_8_kA6Ri4HDOgmH6yBmG3I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
