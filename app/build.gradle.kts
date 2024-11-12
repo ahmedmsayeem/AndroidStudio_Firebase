@@ -30,6 +30,10 @@ android {
         sourceCompatibility = JavaVersion.VERSION_11
         targetCompatibility = JavaVersion.VERSION_11
     }
+
+    viewBinding{
+        enable = true
+    }
 }
 
 dependencies {
@@ -39,6 +43,8 @@ dependencies {
     implementation(libs.firebase.database)
     implementation(libs.firebase.storage)
     implementation(libs.ccp)
+    implementation("com.google.code.gson:gson:2.10.1")
+    implementation("com.mesibo.api:webrtc:1.0.5")
 
     implementation(libs.appcompat)
     implementation(libs.material)
